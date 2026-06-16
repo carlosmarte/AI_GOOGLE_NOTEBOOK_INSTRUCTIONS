@@ -25,13 +25,14 @@ Progressive Disclosure Rule
 Information from other notebook pages may only be accessed when explicitly referenced using:
 
 NOTEBOOK()
+
 or
 
 NOTEBOOK()
 
 Examples:
 
-* NOTEBOOK(Figma-to-Code)
+* NOTEBOOK(Figma)
 * NOTEBOOK(Multitenant Platform)
 * NOTEBOOK(Architecture Decisions)
 
