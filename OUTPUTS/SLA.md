@@ -9,3 +9,9 @@ Service Level Agreements (SLAs) represent the foundational architecture of trust
 | **What is included/excluded?** | The agreement must explicitly list the edge cases and operational realities that do not count against the performance target, such as scheduled maintenance windows, customer-caused misconfigurations, or*force majeure*acts of nature. |
 | **Who is accountable?** | The structural allocation of responsibility must be documented, defining exactly which entity (the provider, a specific subcontractor, or the client) bears the burden of maintaining the service and initiating remediation. |
 | **What happens if the target is missed?** | The agreement must define the precise economic or operational consequence of failure, transitioning the document from a statement of intent into a binding contract with tangible penalties, such as financial credits or termination rights. |
+
+## For each constraint, evaluate whether the user-provided context satisfies it. Document:
+1. The requirement being enforced
+2. The relevant user-provided context
+3. How the requirement is implemented or satisfied
+4. Any gaps, ambiguities, or unmet requirements
